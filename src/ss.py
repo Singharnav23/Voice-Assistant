@@ -1,2 +1,2 @@
-key="97488c036efa457c8d2bf5522e3e5230"
-key2="179913d2653f161b481aaef00c29adaf"
+key="https://newsapi.org/v2/top-headlines?country=in&apiKey="  (Add your key here which you can get from newsapi.org) 
+key2="'https://api.openweathermap.org/data/2.5/weather?q=Delhi&appid='" (Add your key here which you can get from openweathermap.org)
